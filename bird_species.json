@@ -1,0 +1,394 @@
+[
+    {
+        "common_name": "Hairy-legged Vampire Bat",
+        "sci_name": "Diphylla ecaudata"
+    },
+    {
+        "common_name": "Big Naked-backed Bat",
+        "sci_name": "Pteronotus gymnonotus"
+    },
+    {
+        "common_name": "Northern Little Yellow-eared Bat",
+        "sci_name": "Vampyressa thyone"
+    },
+    {
+        "common_name": "Niceforo's Big-eared Bat",
+        "sci_name": "Trinycteris nicefori"
+    },
+    {
+        "common_name": "Fringe-lipped Bat",
+        "sci_name": "Trachops cirrhosus"
+    },
+    {
+        "common_name": "Bladder grasshopper",
+        "sci_name": "Pneumora inanis"
+    },
+    {
+        "common_name": "Chestnut-headed Nunlet",
+        "sci_name": "Nonnula amaurocephala"
+    },
+    {
+        "common_name": "White-quilled Rock Pigeon",
+        "sci_name": "Petrophassa albipennis"
+    },
+    {
+        "common_name": "Silver-tipped Myotis",
+        "sci_name": "Myotis albescens"
+    },
+    {
+        "common_name": "Restless Bush Cricket",
+        "sci_name": "Hapithus agitator"
+    },
+    {
+        "common_name": "Genovesa Ground Finch",
+        "sci_name": "Geospiza acutirostris"
+    },
+    {
+        "common_name": "Fringed Long-footed Myotis",
+        "sci_name": "Myotis fimbriatus"
+    },
+    {
+        "common_name": "Japanese Pipistrelle",
+        "sci_name": "Pipistrellus abramus"
+    },
+    {
+        "common_name": "White-throated Round-eared Bat",
+        "sci_name": "Lophostoma silvicola"
+    },
+    {
+        "common_name": "Common Tent-making Bat",
+        "sci_name": "Uroderma bilobatum"
+    },
+    {
+        "common_name": "Vampire Ground Finch",
+        "sci_name": "Geospiza septentrionalis"
+    },
+    {
+        "common_name": "False jumping bush cricket",
+        "sci_name": "Hapithus luteolira"
+    },
+    {
+        "common_name": "Calusa trig",
+        "sci_name": "Anaxipha calusa"
+    },
+    {
+        "common_name": "Gambian Epauletted Fruit Bat",
+        "sci_name": "Epomophorus gambianus"
+    },
+    {
+        "common_name": "Mundurra Balloon-winged Katydid",
+        "sci_name": "Hexacentrus mundurra"
+    },
+    {
+        "common_name": "Queensland Palm Katydid",
+        "sci_name": "Segestidea queenslandica"
+    },
+    {
+        "common_name": "Little Red Flying Fox",
+        "sci_name": "Pteropus scapulatus"
+    },
+    {
+        "common_name": "Fall Field Cricket",
+        "sci_name": "Gryllus pennsylvanicus"
+    },
+    {
+        "common_name": "Spring field cricket",
+        "sci_name": "Gryllus veletis"
+    },
+    {
+        "common_name": "White-striped Free-tailed Bat",
+        "sci_name": "Austronomus australis"
+    },
+    {
+        "common_name": "Froggatt's buzzer",
+        "sci_name": "Froggattina australis"
+    },
+    {
+        "common_name": "Black Flying Fox",
+        "sci_name": "Pteropus alecto"
+    },
+    {
+        "common_name": "Queensland Tube-nosed Fruit Bat",
+        "sci_name": "Nyctimene robinsoni"
+    },
+    {
+        "common_name": "Long-billed Bush Warbler",
+        "sci_name": "Locustella major"
+    },
+    {
+        "common_name": "Columbian trig",
+        "sci_name": "Cyrtoxipha columbiana"
+    },
+    {
+        "common_name": "Handsome Trig",
+        "sci_name": "Phyllopalpus pulchellus"
+    },
+    {
+        "common_name": "Opalton Grasswren",
+        "sci_name": "Amytornis rowleyi"
+    },
+    {
+        "common_name": "White-breasted Ground Dove",
+        "sci_name": "Pampusana jobiensis"
+    },
+    {
+        "common_name": "Isophya rectipennis",
+        "sci_name": "Molossus molossus"
+    },
+    {
+        "common_name": "Pallas's Mastiff Bat",
+        "sci_name": "Molossus rufus"
+    },
+    {
+        "common_name": "Common Black Mastiff Bat",
+        "sci_name": "Rhinopoma cystops"
+    },
+    {
+        "common_name": "Arabian Mouse-tailed Bat",
+        "sci_name": "Carollia sowelli"
+    },
+    {
+        "common_name": "Sowell's Short-tailed Bat",
+        "sci_name": "Carollia perspicillata"
+    },
+    {
+        "common_name": "Seba's Short-tailed Bat",
+        "sci_name": "Artibeus lituratus"
+    },
+    {
+        "common_name": "Great Fruit-eating Bat",
+        "sci_name": "Vampyrum spectrum"
+    },
+    {
+        "common_name": "Spectral Bat",
+        "sci_name": "Barbastella leucomelas"
+    },
+    {
+        "common_name": "Arabian Barbastelle",
+        "sci_name": "Taphozous nudiventris"
+    },
+    {
+        "common_name": "Naked-rumped Tomb Bat",
+        "sci_name": "Myotis punicus"
+    },
+    {
+        "common_name": "Maghreb Myotis",
+        "sci_name": "Myotis blythii"
+    },
+    {
+        "common_name": "Lesser Myotis",
+        "sci_name": "Nyctalus lasiopterus"
+    },
+    {
+        "common_name": "Greater Noctule",
+        "sci_name": "Myotis bechsteinii"
+    },
+    {
+        "common_name": "Bechstein's Myotis",
+        "sci_name": "Myotis myotis"
+    },
+    {
+        "common_name": "Greater Myotis",
+        "sci_name": "Myotis nattereri"
+    },
+    {
+        "common_name": "Natterer's Myotis",
+        "sci_name": "Myotis alcathoe"
+    },
+    {
+        "common_name": "Alcathoe Whiskered Myotis",
+        "sci_name": "Myotis capaccinii"
+    },
+    {
+        "common_name": "Long-fingered Myotis",
+        "sci_name": "Eptesicus serotinus"
+    },
+    {
+        "common_name": "Eurasian Serotine",
+        "sci_name": "Nyctalus leisleri"
+    },
+    {
+        "common_name": "Leisler's Noctule",
+        "sci_name": "Myotis brandtii"
+    },
+    {
+        "common_name": "Brandt's Myotis",
+        "sci_name": "Myotis mystacinus"
+    },
+    {
+        "common_name": "Common Whiskered Myotis",
+        "sci_name": "Plecotus macrobullaris"
+    },
+    {
+        "common_name": "Alpine Long-eared Bat",
+        "sci_name": "Myotis crypticus"
+    },
+    {
+        "common_name": "Cryptic Myotis",
+        "sci_name": "Rhinolophus hipposideros"
+    },
+    {
+        "common_name": "Lesser Horseshoe Bat",
+        "sci_name": "Rhinolophus ferrumequinum"
+    },
+    {
+        "common_name": "Greater Horseshoe Bat",
+        "sci_name": "Rhinolophus euryale"
+    },
+    {
+        "common_name": "Mediterranean Horseshoe Bat",
+        "sci_name": "Myotis escalerai"
+    },
+    {
+        "common_name": "Escalera's Myotis",
+        "sci_name": "Myotis emarginatus"
+    },
+    {
+        "common_name": "Geoffroy's Myotis",
+        "sci_name": "Plecotus austriacus"
+    },
+    {
+        "common_name": "Gray Long-eared Bat",
+        "sci_name": "Miniopterus schreibersii"
+    },
+    {
+        "common_name": "Schreibers's Long-fingered Bat",
+        "sci_name": "Pipistrellus kuhlii"
+    },
+    {
+        "common_name": "Kuhl's Pipistrelle",
+        "sci_name": "Hypsugo savii"
+    },
+    {
+        "common_name": "Savi's Pipistrelle",
+        "sci_name": "Uroderma convexum"
+    },
+    {
+        "common_name": "Pacific Tent-making Bat",
+        "sci_name": "Rhynchonycteris naso"
+    },
+    {
+        "common_name": "Proboscis Bat",
+        "sci_name": "Pteronotus mesoamericanus"
+    },
+    {
+        "common_name": "Mesoamerican Common Mustached Bat",
+        "sci_name": "Platyrrhinus helleri"
+    },
+    {
+        "common_name": "Heller's Broad-nosed Bat",
+        "sci_name": "Noctilio leporinus"
+    },
+    {
+        "common_name": "Greater Bulldog Bat",
+        "sci_name": "Gardnerycteris crenulatum"
+    },
+    {
+        "common_name": "Striped Hairy-nosed Bat",
+        "sci_name": "Micronycteris minuta"
+    },
+    {
+        "common_name": "Tiny Big-eared Bat",
+        "sci_name": "Micronycteris microtis"
+    },
+    {
+        "common_name": "Common Big-eared Bat",
+        "sci_name": "Micronycteris hirsuta"
+    },
+    {
+        "common_name": "Hairy Big-eared Bat",
+        "sci_name": "Lophostoma brasiliense"
+    },
+    {
+        "common_name": "Pygmy Round-eared Bat",
+        "sci_name": "Dasypterus ega"
+    },
+    {
+        "common_name": "Southern Yellow Bat",
+        "sci_name": "Glossophaga soricina"
+    },
+    {
+        "common_name": "Pallas's Long-tongued Bat",
+        "sci_name": "Eptesicus furinalis"
+    },
+    {
+        "common_name": "Argentine Serotine",
+        "sci_name": "Eptesicus brasiliensis"
+    },
+    {
+        "common_name": "Brazilian Serotine",
+        "sci_name": "Dermanura watsoni"
+    },
+    {
+        "common_name": "Thomas's Fruit-eating Bat",
+        "sci_name": "Centurio senex"
+    },
+    {
+        "common_name": "Wrinkle-faced Bat",
+        "sci_name": "Carollia castanea"
+    },
+    {
+        "common_name": "Chestnut Short-tailed Bat",
+        "sci_name": "Artibeus jamaicensis"
+    },
+    {
+        "common_name": "Jamaican Fruit-eating Bat",
+        "sci_name": "Myotis dasycneme"
+    },
+    {
+        "common_name": "Arcyptera brevipennis",
+        "sci_name": "Aeorestes cinereus"
+    },
+    {
+        "common_name": "Pond Myotis",
+        "sci_name": "Lasiurus borealis"
+    },
+    {
+        "common_name": "Northern Hoary Bat",
+        "sci_name": "Pteropus medius"
+    },
+    {
+        "common_name": "Eastern Red Bat",
+        "sci_name": "Eptesicus fuscus"
+    },
+    {
+        "common_name": "Indian Flying Fox",
+        "sci_name": "Hamirostra melanosternon"
+    },
+    {
+        "common_name": "Big Brown Bat",
+        "sci_name": "Myotis daubentonii"
+    },
+    {
+        "common_name": "Black-breasted Buzzard",
+        "sci_name": "Tadarida teniotis"
+    },
+    {
+        "common_name": "Daubenton's Myotis",
+        "sci_name": "Caprimulgus stellatus"
+    },
+    {
+        "common_name": "European Free-tailed Bat",
+        "sci_name": "Euplectes jacksoni"
+    },
+    {
+        "common_name": "Star-spotted Nightjar",
+        "sci_name": "Setopagis heterura"
+    },
+    {
+        "common_name": "Jackson's Widowbird",
+        "sci_name": "Turnix melanogaster"
+    },
+    {
+        "common_name": "Todd's Nightjar",
+        "sci_name": "Mirafra williamsi"
+    },
+    {
+        "common_name": "Black-breasted Buttonquail",
+        "sci_name": "Gryllus rubens"
+    },
+    {
+        "common_name": "Williams's Lark",
+        "sci_name": "Gryllus fultoni"
+    }
+]
