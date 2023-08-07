@@ -1,0 +1,4 @@
+hello, my name is Cecilia and I am a software 
+engineer at MAK
+i am learning python 
+i use the vscode ide
